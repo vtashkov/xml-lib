@@ -1,6 +1,8 @@
 # xml-lib
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vtashkov/xml-lib/rust.yml)
+![Crates.io](https://img.shields.io/crates/v/xml-lib)
+![Crates.io](https://img.shields.io/crates/d/xml-lib)
 
 ## Rust XML Library
 
