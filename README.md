@@ -1,6 +1,7 @@
 # xml-lib
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vtashkov/xml-lib/rust.yml?style=for-the-badge)
+![Codecov](https://img.shields.io/codecov/c/github/vtashkov/xml-lib?style=for-the-badge)
 
 ## Rust XML Library
 
