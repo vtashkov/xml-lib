@@ -6,6 +6,8 @@
 
 The ultimate goal is xml-lib to become high-performance, production-grade XML library for Rust, which provides SAX parser/writer, DOM tree, DTD, XML schema validation, XPath, XQuery, and maybe XSLT. Whether this goal will be achieved or this will remain just an educational project remains to be seen.
 
+Currently this crate contains absolutely nothing!
+
 ## License 
 
 This library is licensed under MIT license.
